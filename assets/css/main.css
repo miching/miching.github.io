@@ -1939,6 +1939,30 @@ input, select, textarea {
             height: 300px;
 		}
 
+@media screen and (max-width: 1280px) {
+  .box.style1 {
+    height:650px;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .box.style1 {
+    height:550px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .box.style1 {
+    height:600px;
+  }
+}
+
+@media screen and (max-width: 735px) {
+  .box.style1 {
+    height:450px;
+  }
+}
+
 /* Icons */
 
 	.icon {
