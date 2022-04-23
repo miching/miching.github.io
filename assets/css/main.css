@@ -1505,6 +1505,17 @@ input, select, textarea {
 
 		}
 
+
+/* Google Form */
+        .googleForms, iframe {
+                        width: 650px;
+                        height: 700px;
+                        margin: 0 auto;
+                        background-color: white
+                        algin = center;
+                    }
+
+
 /* Form */
 
 	form label {
@@ -2124,6 +2135,7 @@ input, select, textarea {
 					border-top: solid 0.6em #282828;
 				}
 
+
 /* Articles */
 
 	body > article {
@@ -2448,6 +2460,8 @@ input, select, textarea {
 			#contact footer {
 				margin: 0;
 			}
+        
+        
 
 		/* Copyright */
 
