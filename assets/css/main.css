@@ -1950,6 +1950,13 @@ input, select, textarea {
             height: 300px;
 		}
 
+
+        .box.style2 {
+            height: 530px;
+
+
+        }
+
 @media screen and (max-width: 1280px) {
   .box.style1 {
     height:650px;
