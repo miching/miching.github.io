@@ -2070,6 +2070,11 @@ input, select, textarea {
 					background: #252525;
 				}
 
+        .wrapper.style5 {
+			background-color: lightcyan;
+			color: #999;
+		}
+
 /* Nav */
 
 	#nav {
