@@ -1964,7 +1964,6 @@ input, select, textarea {
     
     .box.style2{
         height:450px;
-        background-color: orange;
     }
     
     .box.style2 .image{
@@ -1979,7 +1978,6 @@ input, select, textarea {
     
     .box.style2{
         height:540px;
-        background-color: palegreen;
     }
     
     .box.style2 .image{
@@ -1990,7 +1988,6 @@ input, select, textarea {
 @media screen and (max-width: 900px) {
     .box.style2{
         height:500px;
-        background-color: blue;
     }
     
     .box.style2 .image{
@@ -2005,7 +2002,6 @@ input, select, textarea {
     
     .box.style2{
         height:480px;
-        background-color: aqua;
     }
     
     .box.style2 .image{
