@@ -1952,7 +1952,7 @@ input, select, textarea {
 
 
         .box.style2 {
-            height: 530px;
+            height: 550px;
 
 
         }
@@ -1961,24 +1961,71 @@ input, select, textarea {
   .box.style1 {
     height:650px;
   }
+    
+    .box.style2{
+        height:450px;
+        background-color: orange;
+    }
+    
+    .box.style2 .image{
+        height:220px;
+    }
 }
 
 @media screen and (max-width: 980px) {
   .box.style1 {
     height:550px;
   }
+    
+    .box.style2{
+        height:540px;
+        background-color: palegreen;
+    }
+    
+    .box.style2 .image{
+        height:335px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .box.style2{
+        height:500px;
+        background-color: blue;
+    }
+    
+    .box.style2 .image{
+        height:285px;
+    }
 }
 
 @media screen and (max-width: 800px) {
   .box.style1 {
     height:600px;
   }
+    
+    .box.style2{
+        height:480px;
+        background-color: aqua;
+    }
+    
+    .box.style2 .image{
+        height:250px;
+    }
 }
 
 @media screen and (max-width: 735px) {
   .box.style1 {
     height:450px;
   }
+    
+    .box.style2{
+        height:490px;
+        background-color: yellow;
+    }
+    
+    .box.style2 .image{
+        height:310px;
+    }
 }
 
 /* Icons */
