@@ -1930,7 +1930,7 @@ input, select, textarea {
 
 		.box.style1 {
 			padding: 3em 2em 3.5em 2em;
-            height: 730px;
+            height: 750px;
 		}
 
 			.box.style1 h3 {
@@ -1959,7 +1959,7 @@ input, select, textarea {
 
 @media screen and (max-width: 1280px) {
   .box.style1 {
-    height:650px;
+    height:730px;
   }
     
     .box.style2{
@@ -1973,7 +1973,7 @@ input, select, textarea {
 
 @media screen and (max-width: 980px) {
   .box.style1 {
-    height:550px;
+    height:630px;
   }
     
     .box.style2{
@@ -1997,7 +1997,7 @@ input, select, textarea {
 
 @media screen and (max-width: 800px) {
   .box.style1 {
-    height:600px;
+    height:680px;
   }
     
     .box.style2{
@@ -2011,7 +2011,7 @@ input, select, textarea {
 
 @media screen and (max-width: 735px) {
   .box.style1 {
-    height:450px;
+    height:500px;
   }
     
     .box.style2{
